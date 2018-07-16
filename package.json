@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon is a command line app that allows users to purchase products from the online store as a customer.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celiho/bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celiho/bamazon/issues"
+  },
+  "homepage": "https://github.com/celiho/bamazon#readme",
+  "dependencies": {
+    "cli-table-redemption": "^1.0.1",
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  }
+}
